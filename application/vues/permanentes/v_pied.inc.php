@@ -5,7 +5,7 @@
             <section>
                 <h3></h3>
                 <p>Vous êtes à la fin de mon site WEB créé et pensé par mes propres soins.
-                Tout est bien fonctionnel malgré que la partie admin ne fonctionne pas (manque de temps pour m'en occuper) et que l'on soit dans la spécialité SISR, nous ne sommes pas des développeurs et je que le site reste simple d'utilisation.</p>
+                Tout est bien fonctionnel malgré que la partie admin ne fonctionne pas (manque de temps pour m'en occuper) et que l'on soit dans la spécialité SISR, nous ne sommes pas des développeurs et je pense que le site reste simple d'utilisation.</p>
                 <p>Pour plus d'informations, j'ai mis quelques liens que je recommande</p>
             </section>
             <section>
